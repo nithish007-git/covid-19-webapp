@@ -1,0 +1,71 @@
+body{
+border-left: 10px;
+background-color: black;    
+
+}
+.case{
+    color:red;
+}
+.active{
+    color:green;
+}
+tr,td{
+    width:10px; 
+}
+
+.navbar{
+    position: absolute;
+    height:490px;
+    background-color: aquamarine;
+}
+.navbar-brand{
+    position: absolute;
+    top: 10px;
+    left: 550px;
+}
+.name{
+    position: absolute;
+    top: 100px;
+    left:200px;
+    font-family: 'Viga', sans-serif;    
+    font-size: 60px;
+    padding: auto;
+}
+.second{
+        position: absolute;
+        top: 160px;
+        left:200px;
+        font-size: 20px;
+        padding-top: 20px;
+}
+img{
+    position: absolute;
+    right:220px;
+}
+.middlecontainer{
+    background-color: rgb(240, 246, 246);
+    position: absolute;
+    top:500px;
+    left:1px;
+    width : 2050px;
+    height: 100px;;
+}
+.sub{
+    font-family: 'Francois One', sans-serif;
+    position:absolute;
+    left : 12cm;
+    top : 1cm;
+    font-size: 50px;
+}
+.image2{
+    position: absolute;
+    left:19cm;
+    top: 4cm;
+}
+.table{
+    position: absolute;
+    top:18cm;
+    left: 7cm;
+    width: 40px;
+
+}
