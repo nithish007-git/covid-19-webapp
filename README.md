@@ -6,4 +6,6 @@
 - Html
 - Css
 - Php
-- Api - "
+- Api - "https://api.covid19india.org/data.json"
+
+#this is the opensource api from govt of india
